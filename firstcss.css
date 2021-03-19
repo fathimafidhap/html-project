@@ -1,0 +1,178 @@
+#three{position: relative;}
+form{
+    size:10%;
+}
+.one{
+/* font-family: 'Syne Mono', monospace;} */
+margin-left: 20%;
+margin-top:5%;
+}
+
+
+#st{
+    margin-left: 20%;
+    margin-right: 16%;
+}
+
+
+#three{
+    position: absolute;
+    top:0%;
+   padding-top:0px;
+   margin-left: 64%;
+   margin-top:20%;
+}
+#thre{
+    position: absolute;
+    top:0%;
+   padding-top:0px;
+   margin-left: 46%;
+   margin-top:3%;
+}
+#four{
+    position: absolute;
+   
+    top:0%;
+   padding-top:0px;
+   margin-left: 39%;
+   margin-top:3%;
+}
+#five{
+    position: absolute;
+    top:0%;
+   padding-top:0px;
+   margin-left: 55%;
+   margin-top:3%;
+}
+
+/* .four{
+    position: absolute;
+    top:10%;
+    padding-left: 72%;
+    margin-top: 29%;
+} */
+.six{
+    position: absolute;
+  
+    top:10%;
+    padding-left: 63%;
+    margin-top: 10%;
+}
+#seven{position: relative;}
+
+#ab{
+  
+   
+    margin-left: 25%; position: absolute;
+    top:0%;
+   padding-top:0px;
+  
+   margin-top:40%;
+}
+     
+
+.cd{
+    position: absolute;
+  
+    top:10%;
+    padding-left: 63%;
+    margin-top: 10%;
+}
+.c{
+    position: absolute;
+    top:0%;
+   padding-top:0px; 
+    /* padding-left: 5%; */
+     margin-left: 68%;
+} 
+.ef{
+  
+   
+    margin-left: 20%; position: absolute;
+    top:0%;
+   padding-top:0px;
+   margin-top:15%;
+}
+#gh{
+    color:white;
+    position: absolute;
+  font-size: 500%;
+ 
+}
+.ef{
+  
+   
+    margin-left: 25%; position: absolute;
+    top:0%;
+   padding-top:0px;
+   margin-top:22%;
+
+}
+#ij{
+    color:white;
+    position: absolute;
+  font-size: 300%;
+ 
+}
+.kl{
+  
+   
+    margin-left: 25%; position: absolute;
+    top:0%;
+   padding-top:0px;
+   margin-top:30%;
+}
+.mn{
+    margin-left:29%; position: absolute;
+    top:0%;
+   padding-top:0px;
+   margin-top:10%;
+}
+
+
+.qr{
+    /* font-family: 'Syne Mono', monospace;} */
+    position:relative;
+    margin-left: 20%;
+    margin-top:5%;
+    }
+    #uv{
+        position: absolute;
+        margin-left: 21%;
+        padding-top:0px;
+        top:271%;
+    }
+    #w{
+        margin-top:-6%;
+    }
+    .x{
+        margin-left: 20%;
+        margin-top:15%;
+    }
+    .y{
+        margin-left:40%;
+        margin-top:-26%;
+    }
+    .t{ margin-top:-12%;
+       width:80%;
+    }
+    .z{
+        position: relative;
+    margin-left: 20%;
+    margin-top:-2%;
+    }
+    #ten{
+        color:white;
+        position: absolute;
+      font-size: 300%;
+        margin-left:18%;
+       margin-top:-20%;
+     
+    }
+    #nine{
+        color:white;
+        position: absolute;
+      font-size: 150%;
+        margin-left:18%;
+       margin-top:-10%;
+    }
